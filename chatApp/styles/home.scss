@@ -205,6 +205,7 @@ ul {
   text-decoration: none;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.50);
   text-transform: uppercase;
+  @include transition (all, 0.3s, ease-out);
   &:link,
   &:visited {
     color: white;  
@@ -262,11 +263,12 @@ ul {
   height: 30px;
   margin: 0;
   padding: 4px 8px;
-  border: 1px solid $color-grey-1;
+  border: 2px solid $color-grey-1;
   border-radius: 3px;
   color: $color-grey-1;
   font: normal 300 18px/30px $sans-serif-primary;
   @include transition (all, 0.15s, ease-out);
+  &:hover,
   &:focus {
     box-shadow: 0 0 6px 3px rgba(0,0,0,.45);
     outline: none;
@@ -313,6 +315,13 @@ ul {
       margin: -46px 0 0;
       padding: 0;
     }
+  }
+  img {
+    max-width: 60%;
+    margin: 20px 25px 46px;
+    border-radius: 4px;
+    -webkit-box-shadow: 1px 8px 8px 0 rgba(0,0,0,.5);
+    box-shadow: 1px 8px 8px 0 rgba(0,0,0,.5);
   }
 }
 .message {
