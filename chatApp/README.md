@@ -4,9 +4,9 @@
 
 ## <span style="color:#7FAF1B">Getting Started - Chatty App</span>
 
-<span style="color:#7FAF1B">1. </span>Set-up and start 'Chatty App'.
+<span style="color:#7FAF1B">1. </span>Set-up and start 'ChatApp'.
 ```
-cd chattyApp
+cd chatApp
 npm install
 npm start
 open http://localhost:3000
