@@ -46,6 +46,29 @@ open http://localhost:3001
 
 ## <span style="color:#7FAF1B">Project Screenshots:</span>
 
+* [<span style="color:#7FAF1B">Chatty App</span>](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App.png?raw=true)
+
+![Chatty App](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App.png?raw=true)
+
+* [<span style="color:#7FAF1B">Chatty App with Input Focused</span>](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Input_Focused.png?raw=true)
+
+![Chatty App with Input Focused](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Input_Focused.png?raw=true)
+
+* [<span style="color:#7FAF1B">Chatty App with Message</span>](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Message.png?raw=true)
+
+![Chatty App with Message](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Message.png?raw=true)
+
+* [<span style="color:#7FAF1B">Chatty App with Notification</span>](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Notification.png?raw=true)
+
+![Chatty App with Notification](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Notification.png?raw=true)
+
+* [<span style="color:#7FAF1B">Chatty App with Multiple Users V1</span>](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Multiple_Users-V1.png?raw=true)
+
+![Chatty App with Multiple Users V1](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Multiple_Users-V1.png?raw=true)
+
+* [<span style="color:#7FAF1B">Chatty App with Multiple Users V2</span>](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Multiple_Users-V2.png?raw=true)
+
+![Chatty App with Multiple Users V1](https://github.com/RSpidla/chattyApp_2019/blob/master/docs/Chatty_App-with_Multiple_Users-V2.png?raw=true)
 
 ## <span style="color:#7FAF1B">Requirements:</span>
 
