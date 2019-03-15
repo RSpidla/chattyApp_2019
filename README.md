@@ -1,6 +1,6 @@
 # <span style="color:#7FAF1B">Chatty App Project</span>
 
-### Chatty App is a full stack web app built using Node and Express that allows users to shorten URLs.
+### A realtime chat application utilizing React, Babel, SCSS, and WebSockets.
 
 ## <span style="color:#7FAF1B">Getting Started</span>
 
@@ -13,7 +13,7 @@ git remote add origin [YOUR NEW REPOSITORY]
 ```
 
 
-<span style="color:#7FAF1B">2. </span>Instructions for 'ChattyApp' set-up.
+<span style="color:#7FAF1B">2. </span>Set-up and start 'ChatApp'.
 ```
 cd chattyApp
 npm install
@@ -21,7 +21,7 @@ npm start
 open http://localhost:3000
 ```
 
-<span style="color:#7FAF1B">3. </span>Instructions for 'chatty_server' set-up.
+<span style="color:#7FAF1B">3. </span>Set-up and start 'chatty_server'.
 ```
 cd chatty_server
 npm install
@@ -29,9 +29,9 @@ npm start
 open http://localhost:3001
 ```
 
-<span style="color:#7FAF1B">4. </span>Instructions for 'ChattyServer' here
+<span style="color:#7FAF1B">4. </span>Go to <http://localhost:3000/> in your browser.
 
-
+<span style="color:#7FAF1B">5. </span>Enter username and message then hit enter.
 
 ## <span style="color:#7FAF1B">Chatty App - Dependencies:</span>
 
